@@ -2,8 +2,8 @@
 
 这个时候知乎瀑布流由于有许多交互元素导致打印观感很差，如图
 
-<img src="BeautyZhihuPrint1.png" style="zoom:50%;" />
+<img src="BeautyZhihuPrint1.png" />
 
 使用脚本后，效果如下图
 
-<img src="BeautyZhihuPrint2.png" style="zoom:50%;" />
+<img src="BeautyZhihuPrint2.png" />
