@@ -7,6 +7,7 @@
 // @match        https://zhuanlan.zhihu.com/p/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zhihu.com
 // @grant        none
+// @license      GPL-3.0
 // ==/UserScript==
 
 window.onload = function () {
